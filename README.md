@@ -89,7 +89,7 @@ pip install matplotlib numpy
 ### Run the script
 
 ```bash
-python sorting_analysis.py
+python algo.py
 ```
 
 ---
